@@ -81,7 +81,7 @@ Este projeto foi elaborado como parte do desafio do Programa Oracle Next Educati
 Instruções para utilizar o decodificador:
 
 <ol>
-    <li>Acesse a página da aplicação clicando <a href="https://medeiroscamila.github.io/decode-detectives/">neste link</a>.</li>
+    <li>Acesse a página da aplicação clicando <a href="https://decodificador-gamma.vercel.app/">neste link</a>.</li>
     <li>No campo "Digite seu texto", insira o texto que você deseja criptografar ou descriptografar.</li>
     <li>Escolha a ação desejada: clique no botão "Criptografar" para codificar o texto ou no botão "Descriptografar" para decodificar.</li>
     <li>O resultado será exibido no lado direito da tela.</li>
