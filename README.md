@@ -35,7 +35,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Descrição do Projeto
-Este projeto foi elaborado como parte do desafio do Programa Oracle Next Education (ONE). O mesmo consiste em um decodificador de texto construído com JavaScript, com a finalidade de codificar e decodificar mensagens por meio de um conjunto específico de chaves. Isso possibilita que os usuários troquem mensagens confidenciais com outros que tenham familiaridade com a criptografia empregada.
+Este projeto foi elaborado como parte do desafio do Programa Oracle Next Education (ONE). O mesmo consiste em um decodificador de texto construído com JavaScript, o mesmo possui a finalidade de criptografar e descriptografar mensagens por meio de um conjunto específico de chaves. Isso possibilita que os usuários troquem mensagens confidenciais com outros que tenham familiaridade com a criptografia empregada.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
