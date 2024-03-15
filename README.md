@@ -37,7 +37,6 @@
 ## Descrição do Projeto
 Este projeto foi elaborado como parte do desafio do Programa Oracle Next Education (ONE). O mesmo consiste em um decodificador de texto construído com JavaScript, o mesmo possui a finalidade de criptografar e descriptografar mensagens por meio de um conjunto específico de chaves. Isso possibilita que os usuários troquem mensagens confidenciais com outros que tenham familiaridade com a criptografia empregada.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Ferramentas Utilizadas
 
@@ -45,7 +44,6 @@ Este projeto foi elaborado como parte do desafio do Programa Oracle Next Educati
 * [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](CSS3-url)
 * [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](JavaScript-url)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Funcionalidades
@@ -55,6 +53,7 @@ Este projeto foi elaborado como parte do desafio do Programa Oracle Next Educati
 :heavy_check_mark: `Funcionalidade 2:` Permite criptografar uma palavra, possibilitando que os usuários troquem mensagens secretas com outras pessoas que conheçam o segredo da criptografia utilizada.
 
 :heavy_check_mark: `Funcionalidade 3:` Oferece a funcionalidade de descriptografar uma palavra, restaurando-a para sua forma original.
+
 
 ### Requisitos
 * Chaves de Criptografia utilizadas:
@@ -72,8 +71,6 @@ Este projeto foi elaborado como parte do desafio do Programa Oracle Next Educati
 "gaitober" => "gato"
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- USAGE EXAMPLES -->
 ## Instruções de Utilização
@@ -90,22 +87,16 @@ Instruções para utilizar o decodificador:
 </ol>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- ROADMAP -->
 ## Acesso ao Projeto
 
 Acesse os arquivos do projeto clicando [aqui](https://github.com/paulosilva995/Decodificador).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Desenvolvedores
 
  [Paulo Silva](https://github.com/paulosilva995)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
