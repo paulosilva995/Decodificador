@@ -96,7 +96,7 @@ Acesse os arquivos do projeto clicando [aqui](https://github.com/paulosilva995/D
 <!-- CONTRIBUTING -->
 ## Desenvolvedores
 
- [Paulo Silva](https://github.com/paulosilva995)
+ [Paulo Silva](https://www.linkedin.com/in/paulosilva-engsoft/)
 
 
 <!-- LICENSE -->
